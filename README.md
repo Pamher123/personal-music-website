@@ -43,4 +43,4 @@
 
 1. 克隆本项目：
    ```bash
-   git clone https://github.com/你的GitHub用户名/个人音乐商店.git
+   git clone https://github.com/Pamher123/personal-music-website.git
