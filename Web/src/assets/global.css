@@ -1,0 +1,13 @@
+/* src/assets/global.css */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: linear-gradient(to right, #151515, #615f5d);
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  padding: 2rem;
+  min-height: 100vh;
+}
